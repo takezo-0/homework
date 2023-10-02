@@ -1,6 +1,5 @@
 // Delta College - CST 283 - Klingler  
-// This application drives a simple demonstrates of circle and rectangle
-// objects inherited from the general Shape class.
+// This application manages a list of jobs of various categories.
 
 public class MyJobs
 {
